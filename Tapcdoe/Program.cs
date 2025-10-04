@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace github
+namespace Tapcdoe
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
-            Console.Write("World");
-            Console.WriteLine("I am robot");
         }
     }
 }
