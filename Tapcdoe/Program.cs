@@ -10,6 +10,7 @@ namespace Tapcdoe
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Xin chao moi nguoi");
         }
     }
 }
