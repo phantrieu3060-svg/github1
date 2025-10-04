@@ -12,6 +12,7 @@ namespace github
         {
             Console.Write("Hello");
             Console.Write("World");
+            Console.WriteLine("I am robot");
         }
     }
 }
